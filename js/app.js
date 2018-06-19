@@ -1,25 +1,25 @@
-Answer the Following
-1. let lightSwitch = false;
-2. let email = 'alexnolsen@gmail.com';
-3. const spaceship = ['hull', 'laser beam', 'tractor beam', 'warp drive']
-4. const studentNames = ['Alex', 'James', 'Cameron', 'Ben', 'Eric']
-5. const students = [ALex:{age: 26, hometown: "Lansing, MI", currentResidence: "Lakewood, CO"}, Ben: {age: 29, hometown: "Chicago, IL", currentResidence: "Boulder, CO"}]
-6.const students = [ALex:{age: 26, hometown: "Lansing, MI", currentResidence: "Lakewood, CO", favTVSHOWS: ['Game of Thrones', 'Game of Thrones']}, Ben: {age: 29, hometown: "Chicago, IL", currentResidence: "Boulder, CO", favTVSHOWS: ['Game of Thrones', 'Game of Thrones']}]
+// Answer the Following
+// 1. let lightSwitch = false;
+// 2. let email = 'alexnolsen@gmail.com';
+// 3. const spaceship = ['hull', 'laser beam', 'tractor beam', 'warp drive']
+// 4. const studentNames = ['Alex', 'James', 'Cameron', 'Ben', 'Eric']
+// 5. const students = [ALex:{age: 26, hometown: "Lansing, MI", currentResidence: "Lakewood, CO"}, Ben: {age: 29, hometown: "Chicago, IL", currentResidence: "Boulder, CO"}]
+// 6.const students = [ALex:{age: 26, hometown: "Lansing, MI", currentResidence: "Lakewood, CO", favTVSHOWS: ['Game of Thrones', 'Game of Thrones']}, Ben: {age: 29, hometown: "Chicago, IL", currentResidence: "Boulder, CO", favTVSHOWS: ['Game of Thrones', 'Game of Thrones']}]
 
 
-// //Take it Easy
-//
-// const rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-// rainbow[4];
-//
-// const alex = {
-//   favFood: 'lobster',
-//   hobby: 'playing guitar',
-//   residence: 'Lakewood, CO',
-//   favDatatype: ''
-// }
-// console.log(alex.hobby);
-//
+//Take it Easy
+
+const rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+rainbow[4];
+
+const alex = {
+  favFood: 'lobster',
+  hobby: 'playing guitar',
+  residence: 'Lakewood, CO',
+  favDatatype: ''
+}
+console.log(alex.hobby);
+
 //
 // //Crazy Object
 //
